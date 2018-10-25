@@ -16,7 +16,7 @@ email: ["jarrett.byrnes@umb.edu"]    # boxed, comma-separated list of contact em
 collaborative_notes: https://pad.carpentries.org/2019-01-22-umb-geospatial            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
+<h1>Data Carpentry Geospatial Workshop in R</h1>
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
@@ -351,6 +351,7 @@ and our administrator may contact you if we need any extra information.</h4>
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+
 
 <div id="geospatial"> {% comment %} Start of 'Geospatial' section. {% endcomment %}
   <h3>Geospatial Software and Data</h3>
