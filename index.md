@@ -351,3 +351,9 @@ and our administrator may contact you if we need any extra information.</h4>
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+
+<div id="geospatial"> {% comment %} Start of 'Geospatial' section. {% endcomment %}
+  <h3>Geospatial Software and Data</h3>
+  <p>Unlike other workshops, there is a good bit of additional software and very large data files to install for these lessons. We advise you to install these after R at least <b>one week before the workshop</b> as well as downloading the data. Please follow the relevant instructions on <a href="https://datacarpentry.org/geospatial-workshop/setup.html">this page</a> carefully and contact <a href="mailto:jarrett.byrnes@umb.edu">the instructors</a> with any installation issues.
+  </p>
+</div>
