@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of Massachusetts Boston"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Room 3300, ISC, 100 Morrissey Blvd, Boston, MA"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "42.313867,-71.040889"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "42.313260, -71.035406"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Jan 22-23, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-01-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -17,6 +17,7 @@ collaborative_notes: https://pad.carpentries.org/2019-01-22-umb-geospatial      
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 <h1>Data Carpentry Geospatial Workshop in R</h1>
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
