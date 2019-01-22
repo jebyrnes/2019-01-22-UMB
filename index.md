@@ -234,7 +234,7 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. Code generated during the class can be found in <a href="https://github.com/jebyrnes/r-spatial_dc_workshop_2019-01-22">this github repository</a>
 </p>
 {% endif %}
 
